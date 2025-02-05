@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img width="1000px" src="/"/>
+  <img width="1000px" src="/sharksLogo.png"/>
 
 <div>
 
